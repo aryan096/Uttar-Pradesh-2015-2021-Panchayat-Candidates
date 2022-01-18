@@ -4,3 +4,5 @@ Code for creation of dataset of Panchayat candidates (village level) in the Indi
 
 Link to csv file with 2015 and 2021 data - https://docs.google.com/spreadsheets/d/1N0ckOqUFFjrlGK6mWwV6mLplNetOrN03VyTtCFuQu8I/edit?usp=sharing
 
+# List of Variables
+

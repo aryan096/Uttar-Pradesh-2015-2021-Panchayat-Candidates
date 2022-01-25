@@ -6,4 +6,4 @@ Link to csv file with 2015 and 2021 data - https://docs.google.com/spreadsheets/
 
 # List of Variables
 
-<img width="370" alt="Screenshot 2022-01-24 at 10 01 28 PM" src="https://user-images.githubusercontent.com/16442168/150903096-99dc3a29-28a7-4404-9ea8-ccf84801d08a.png">
+<img width="500" alt="Screenshot 2022-01-24 at 10 01 28 PM" src="https://user-images.githubusercontent.com/16442168/150903096-99dc3a29-28a7-4404-9ea8-ccf84801d08a.png">
